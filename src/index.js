@@ -1,13 +1,17 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './containers/App.js';
+// import { robots } from './robots.js';
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <App />,
+  // <CardList robots= { robots }/>,
+  // <div>
+  //   <Robo id={robots[0].id} name={robots[0].name} email={robots[0].email}/>
+  //   <Robo id={robots[1].id} name={robots[1].name} email={robots[1].email}/>
+  // </div>,
   document.getElementById('root')
 );
 
