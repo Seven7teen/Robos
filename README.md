@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## To Run it in your system,
 git clone https://github.com/Seven7teen/Robos \
 npm install \
-npm start \
+npm start 
 
 ## Available Scripts
 
