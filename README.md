@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## To Run it in your system,
+git clone https://github.com/Seven7teen/Robos \
+npm install \
+npm start 
+
 ## Available Scripts
 
 In the project directory, you can run:
